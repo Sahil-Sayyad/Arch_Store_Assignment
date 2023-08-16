@@ -7,3 +7,4 @@
 -  <b> 3. &nbsp; Then simply start your app </b>
    <br>----<i>npm start </i><br><br>
 
+#Note ---> delete package-lock-json and install npm to avoid any error 
