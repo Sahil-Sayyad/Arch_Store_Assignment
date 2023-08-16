@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "name": "Assignment_II",
+  "version": "1.0.0",
+  "description": "assignment given by Arch_Tech",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon app.js"
+
+  },
+  "author": "Sahil Sayyad",
+  "license": "ISC"
+}
